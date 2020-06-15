@@ -7,7 +7,7 @@ const Manager = require("./lib/Manager");
 const employees = [];
 
 function initApp() {
-    startHtml();
+    startHtml(); 
     addMember();
 }
 
